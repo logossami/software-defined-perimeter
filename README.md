@@ -1,5 +1,5 @@
-# Software-Defined Perimeter
-Waverley Labs Software-Defined Perimeter Elaborated Installation Guide (in Finnish language, targeted for Finnish Junior Professionals)
+# Software-Defined Perimeter Installation Guide
+Waverley Labs Software-Defined Perimeter Elaborated Installation Guide (**in Finnish language**, targeted for Finnish Junior Professionals)
 
 ## Original Licenses
 
