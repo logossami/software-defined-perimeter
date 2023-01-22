@@ -9,7 +9,7 @@ https://github.com/WaverleyLabs/SDPcontroller#license
 2) fwknop:  
 https://github.com/mrash/fwknop#license
 
-This repository does not include any modification of the original source code. The referred software is originally released as free/open source software under the GNU General Public License (v2, v3 or later). Please see the GNU GPL and original license definitions for more details.
+This repository does not include any modification of the original source code. The referred software is in its original state, released as free/open source software under the GNU General Public License (v2, v3 or later). Please see the GNU GPL and original license definitions for more details.
 
 ## Description
 
